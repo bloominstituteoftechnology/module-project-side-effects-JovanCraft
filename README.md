@@ -30,4 +30,4 @@ Your project should end up looking like [this](./frontend/design-files/insta-clo
 
 ## Submission Format
 
-- [ ] Submit a link to your repository in Canvas
+- [x] Submit a link to your repository in Canvas
